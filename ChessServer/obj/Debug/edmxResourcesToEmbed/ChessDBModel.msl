@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="ChessDBModelStoreContainer" CdmEntityContainer="ChessDBEntities">
+    <EntitySetMapping Name="Friendships">
+      <EntityTypeMapping TypeName="ChessDBModel.Friendship">
+        <MappingFragment StoreEntitySet="Friendships">
+          <ScalarProperty Name="FriendshipID" ColumnName="FriendshipID" />
+          <ScalarProperty Name="ReceiverUserID" ColumnName="ReceiverUserID" />
+          <ScalarProperty Name="SenderUserID" ColumnName="SenderUserID" />
+          <ScalarProperty Name="IsAccepted" ColumnName="IsAccepted" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Users">
+      <EntityTypeMapping TypeName="ChessDBModel.User">
+        <MappingFragment StoreEntitySet="Users">
+          <ScalarProperty Name="UserID" ColumnName="UserID" />
+          <ScalarProperty Name="Password" ColumnName="Password" />
+          <ScalarProperty Name="FullName" ColumnName="FullName" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

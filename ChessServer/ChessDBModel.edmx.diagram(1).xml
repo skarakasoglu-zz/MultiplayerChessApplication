@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="cac68425b32748af89cd3b43d7427716" Name="Diagram1">
+        <EntityTypeShape EntityType="ChessDBModel.Friendships" Width="1.5" PointX="3" PointY="1.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="ChessDBModel.Messages" Width="1.5" PointX="3" PointY="4" IsExpanded="true" />
+        <EntityTypeShape EntityType="ChessDBModel.Users" Width="1.5" PointX="0.75" PointY="2.5" IsExpanded="true" />
+        <AssociationConnector Association="ChessDBModel.FK_Friendships_Users1" ManuallyRouted="false" />
+        <AssociationConnector Association="ChessDBModel.FK_Friendships_Users2" ManuallyRouted="false" />
+        <AssociationConnector Association="ChessDBModel.FK_Messages_Users" ManuallyRouted="false" />
+        <AssociationConnector Association="ChessDBModel.FK_Messages_Users1" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

@@ -1,0 +1,42 @@
+c:\users\süleyman\source\repos\ChessAplication\ChessServer\obj\Debug\ChessServer.csproj.CoreCompileInputs.cache
+c:\users\süleyman\source\repos\ChessAplication\ChessServer\bin\Debug\ChessServer.exe.config
+c:\users\süleyman\source\repos\ChessAplication\ChessServer\bin\Debug\ChessServer.exe
+c:\users\süleyman\source\repos\ChessAplication\ChessServer\bin\Debug\ChessServer.pdb
+c:\users\süleyman\source\repos\ChessAplication\ChessServer\bin\Debug\ChessClient.exe
+c:\users\süleyman\source\repos\ChessAplication\ChessServer\bin\Debug\EntityFramework.dll
+c:\users\süleyman\source\repos\ChessAplication\ChessServer\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\süleyman\source\repos\ChessAplication\ChessServer\bin\Debug\ChessClient.pdb
+c:\users\süleyman\source\repos\ChessAplication\ChessServer\bin\Debug\ChessClient.exe.config
+c:\users\süleyman\source\repos\ChessAplication\ChessServer\bin\Debug\EntityFramework.xml
+c:\users\süleyman\source\repos\ChessAplication\ChessServer\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\süleyman\source\repos\ChessAplication\ChessServer\obj\Debug\ChessServer.csprojResolveAssemblyReference.cache
+c:\users\süleyman\source\repos\ChessAplication\ChessServer\obj\Debug\ChessServer.exe
+c:\users\süleyman\source\repos\ChessAplication\ChessServer\obj\Debug\ChessServer.pdb
+C:\Users\Yüksel\Desktop\ChessAplication\ChessServer\obj\Debug\ChessServer.csprojResolveAssemblyReference.cache
+C:\Users\Yüksel\Desktop\ChessAplication\ChessServer\obj\Debug\ChessServer.csproj.CoreCompileInputs.cache
+C:\Users\Yüksel\Desktop\ChessAplication\ChessServer\obj\Debug\ChessServer.exe
+C:\Users\Yüksel\Desktop\ChessAplication\ChessServer\obj\Debug\ChessServer.pdb
+C:\Users\Yüksel\Desktop\ChessAplication\ChessServer\bin\Debug\ChessServer.exe.config
+C:\Users\Yüksel\Desktop\ChessAplication\ChessServer\bin\Debug\ChessServer.exe
+C:\Users\Yüksel\Desktop\ChessAplication\ChessServer\bin\Debug\ChessServer.pdb
+C:\Users\Yüksel\Desktop\ChessAplication\ChessServer\bin\Debug\ChessClient.exe
+C:\Users\Yüksel\Desktop\ChessAplication\ChessServer\bin\Debug\EntityFramework.dll
+C:\Users\Yüksel\Desktop\ChessAplication\ChessServer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Yüksel\Desktop\ChessAplication\ChessServer\bin\Debug\ChessClient.pdb
+C:\Users\Yüksel\Desktop\ChessAplication\ChessServer\bin\Debug\ChessClient.exe.config
+C:\Users\Yüksel\Desktop\ChessAplication\ChessServer\bin\Debug\EntityFramework.xml
+C:\Users\Yüksel\Desktop\ChessAplication\ChessServer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ebube\Desktop\301\ChessAplication-20171214T002916Z-001\Untitled folder-20171214T164547Z-001\Untitled folder\ChessAplication\ChessServer\bin\Debug\ChessServer.exe.config
+C:\Users\ebube\Desktop\301\ChessAplication-20171214T002916Z-001\Untitled folder-20171214T164547Z-001\Untitled folder\ChessAplication\ChessServer\bin\Debug\ChessServer.exe
+C:\Users\ebube\Desktop\301\ChessAplication-20171214T002916Z-001\Untitled folder-20171214T164547Z-001\Untitled folder\ChessAplication\ChessServer\bin\Debug\ChessServer.pdb
+C:\Users\ebube\Desktop\301\ChessAplication-20171214T002916Z-001\Untitled folder-20171214T164547Z-001\Untitled folder\ChessAplication\ChessServer\bin\Debug\ChessClient.exe
+C:\Users\ebube\Desktop\301\ChessAplication-20171214T002916Z-001\Untitled folder-20171214T164547Z-001\Untitled folder\ChessAplication\ChessServer\bin\Debug\EntityFramework.dll
+C:\Users\ebube\Desktop\301\ChessAplication-20171214T002916Z-001\Untitled folder-20171214T164547Z-001\Untitled folder\ChessAplication\ChessServer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ebube\Desktop\301\ChessAplication-20171214T002916Z-001\Untitled folder-20171214T164547Z-001\Untitled folder\ChessAplication\ChessServer\bin\Debug\ChessClient.pdb
+C:\Users\ebube\Desktop\301\ChessAplication-20171214T002916Z-001\Untitled folder-20171214T164547Z-001\Untitled folder\ChessAplication\ChessServer\bin\Debug\ChessClient.exe.config
+C:\Users\ebube\Desktop\301\ChessAplication-20171214T002916Z-001\Untitled folder-20171214T164547Z-001\Untitled folder\ChessAplication\ChessServer\bin\Debug\EntityFramework.xml
+C:\Users\ebube\Desktop\301\ChessAplication-20171214T002916Z-001\Untitled folder-20171214T164547Z-001\Untitled folder\ChessAplication\ChessServer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ebube\Desktop\301\ChessAplication-20171214T002916Z-001\Untitled folder-20171214T164547Z-001\Untitled folder\ChessAplication\ChessServer\obj\Debug\ChessServer.csprojResolveAssemblyReference.cache
+C:\Users\ebube\Desktop\301\ChessAplication-20171214T002916Z-001\Untitled folder-20171214T164547Z-001\Untitled folder\ChessAplication\ChessServer\obj\Debug\ChessServer.csproj.CoreCompileInputs.cache
+C:\Users\ebube\Desktop\301\ChessAplication-20171214T002916Z-001\Untitled folder-20171214T164547Z-001\Untitled folder\ChessAplication\ChessServer\obj\Debug\ChessServer.exe
+C:\Users\ebube\Desktop\301\ChessAplication-20171214T002916Z-001\Untitled folder-20171214T164547Z-001\Untitled folder\ChessAplication\ChessServer\obj\Debug\ChessServer.pdb
